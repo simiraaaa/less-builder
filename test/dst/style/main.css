@@ -1,0 +1,9 @@
+.util {
+  color: red;
+}
+.util .test {
+  color: blue;
+}
+.main {
+  background-color: gray;
+}
