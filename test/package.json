@@ -1,5 +1,5 @@
 {
-  "name": "less-builder-test",
+  "name": "less-css-builder-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "less-builder": "../"
+    "less-css-builder": "../"
   }
 }

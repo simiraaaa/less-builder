@@ -1,4 +1,4 @@
-var lessBuilder = require('less-builder');
+var lessBuilder = require('less-css-builder');
 lessBuilder.watch({
   target: 'less',
   entry: 'less/main.less',
